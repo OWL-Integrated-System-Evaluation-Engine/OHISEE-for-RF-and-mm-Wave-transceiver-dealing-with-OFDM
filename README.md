@@ -40,4 +40,4 @@ Step 5. Go back to the GUI and click "Signal Modulation" button. Wait for a seco
  
 Step 6. Now you can replace your own design to the example project for the Co-Simulation!
 
-For more information, please contact us at: eewmshi@ust.hk
+For more information, please contact us at: tminaa@connect.ust.hk
